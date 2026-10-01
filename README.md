@@ -10,16 +10,16 @@ My 16-week AI Literacy Layer portfolio and engineering journal.
 - [ ] Explain prediction, classification, and generation
 - [ ] Create a personal AI verification protocol
 ## Questions
-- [ ] Q1
-- [ ] Q2
-- [ ] Q3
-- [ ] Q4
-- [ ] Q5
-- [ ] Q6
-- [ ] Q7
-- [ ] Q8
-- [ ] Q9
-- [ ] Q10
+- [ ] Q1 AI → ML → Deep Learning → Generative AI → Agents
+- [ ] Q2 Is Everything That Looks Intelligent Actually AI?
+- [ ] Q3 What Happens When You Ask an LLM a Question?
+- [ ] Q4 Hallucination Experiment: Can AI Sound Confident and Still Be Wrong?
+- [ ] Q5 AI Assistant vs Search vs Authoritative Reference
+- [ ] Q6 What Is an AI Agent?
+- [ ] Q7 Where Should Humans Still Make the Decision?
+- [ ] Q8 Find AI Around You
+- [ ] Q9 Prediction, Classification, and Generation
+- [ ] Q10 Design Your Personal AI Verification Protocol
 ## Practical Work
 - [ ] AI assistant comparison
 - [ ] Verification log
